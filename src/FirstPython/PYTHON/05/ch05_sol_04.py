@@ -1,0 +1,5 @@
+weigth=float(input('몸무게 (kg) 를 입력하세요 :'))
+heigth=float(input('신장 (m) 을 입력하세요 :'))
+#bmi=int(weigth/(heigth*heigth))
+bmi=int(weigth/(heigth**2))
+print('BMI : ',bmi)

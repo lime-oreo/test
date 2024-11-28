@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/4d0c3b29-e83e-4875-90e4-d4ecbda24ae5/resourceGroups/flask1127_group/providers/Microsoft.Web/sites/flask1127",
+    "appService.deploySubpath": "PYTHON\\weather"
+}
